@@ -1,6 +1,6 @@
-# skills — 去 AI 味 skills 合集
+# skills — 开源 skills 合集
 
-开源的去除 AI 写作痕迹（去 AI 味）的 skills 合集。每个 skill 单独一个文件夹，里面的 LICENSE、README、SKILL.md 都保留原样，来源见下表。
+收集的开源 skills，以去除 AI 写作痕迹（去 AI 味）为主，也收其他顺手找来的。每个 skill 单独一个文件夹，里面的 LICENSE、README、SKILL.md 都保留原样，来源见下表。
 
 另外一个 qu-ai-wei 已装成本地的自定义 skill（直接用 `/qu-ai-wei` 或说“去 AI 味”就能调），没有重复放进这里。
 
@@ -14,6 +14,7 @@
 | `humanizer` | [blader/humanizer](https://github.com/blader/humanizer) | 英文原版 Humanizer，基于维基百科 AI Cleanup 的 24 条规律 |
 | `ai-flavor-remover` | [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) | 去 AI 味提示词合集（只有提示词，没有 SKILL.md） |
 | `awesome-ai-research-writing` | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 学术写作提示词合集，含去 AI 味部分；这里只存了文字版（README.md），原仓库的图片没有存进来 |
+| `brainstorming-research-ideas` | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 科研选题头脑风暴：用结构化构思框架找高价值研究方向（英文，AI Research Skills Library 的 research-ideation 分类，MIT） |
 
 ## 用法
 
