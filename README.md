@@ -15,6 +15,7 @@
 | `ai-flavor-remover` | [hylarucoder/ai-flavor-remover](https://github.com/hylarucoder/ai-flavor-remover) | 去 AI 味提示词合集（只有提示词，没有 SKILL.md） |
 | `awesome-ai-research-writing` | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 学术写作提示词合集，含去 AI 味部分；这里只存了文字版（README.md），原仓库的图片没有存进来 |
 | `brainstorming-research-ideas` | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 科研选题头脑风暴：用结构化构思框架找高价值研究方向（英文，AI Research Skills Library 的 research-ideation 分类，MIT） |
+| `anti-defensive-writing-Skill` | [Adkid-Zephyr/anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) | 反防御性写作：把论文当学术发布会，阻止自我削弱、替审稿人攻击自己的写作原则 skill，中英文各一份（`skills/` 下），附提示词包（MIT） |
 
 ## 用法
 
