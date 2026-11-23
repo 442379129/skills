@@ -16,6 +16,7 @@
 | `awesome-ai-research-writing` | [Leey21/awesome-ai-research-writing](https://github.com/Leey21/awesome-ai-research-writing) | 学术写作提示词合集，含去 AI 味部分；这里只存了文字版（README.md），原仓库的图片没有存进来 |
 | `brainstorming-research-ideas` | [Orchestra-Research/AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs) | 科研选题头脑风暴：用结构化构思框架找高价值研究方向（英文，AI Research Skills Library 的 research-ideation 分类，MIT） |
 | `anti-defensive-writing-Skill` | [Adkid-Zephyr/anti-defensive-writing-Skill](https://github.com/Adkid-Zephyr/anti-defensive-writing-Skill) | 反防御性写作：把论文当学术发布会，阻止自我削弱、替审稿人攻击自己的写作原则 skill，中英文各一份（`skills/` 下），附提示词包（MIT） |
+| `Supervisor-Skills` | [HKUSTDial/Supervisor-Skills](https://github.com/HKUSTDial/Supervisor-Skills) | 鸭博士：港科大（广州）骆昱宇把博导十年科研经验蒸馏成的 10 个 skill（选题评估、文献调研、引言起草、正文写作、润色、投稿前审查、配图、论文模板、AI 科研流程），每个子文件夹一个 skill（CC BY-NC-SA 4.0） |
 
 ## 用法
 
